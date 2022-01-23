@@ -1,0 +1,4 @@
+masonite>=4.2,<4.3
+gunicorn
+masonite-orm
+meinheld
